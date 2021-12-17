@@ -80,7 +80,6 @@ public class Main {
         }
         linkedLists.clear();
 
-        System.out.println(linkedLists);
         return final_list;
     }
 
